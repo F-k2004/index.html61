@@ -15,7 +15,7 @@ canvas{display:block}
 }
 .good{color:#9ff0ff}
 .mid{color:#ffd29f}
-.bad{color:#ff9f9f}
+.ad{color:#ff9f9f}
 .warn{color:#ffb366}
 </style>
 </head>
